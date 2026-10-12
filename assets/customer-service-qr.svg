@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="客服二维码占位图">
+  <rect width="120" height="120" rx="8" fill="#fff"/>
+  <g fill="#173d59">
+    <path d="M8 8h34v34H8zm6 6v22h22V14zm5 5h12v12H19zM78 8h34v34H78zm6 6v22h22V14zm5 5h12v12H89zM8 78h34v34H8zm6 6v22h22V84zm5 5h12v12H19z"/>
+    <path d="M50 8h8v8h-8zm12 0h8v8h-8zM50 20h8v16h-8zm12 4h8v8h-8zM46 46h8v8h-8zm12 0h8v8h-8zm12 0h8v8h-8zm12 0h8v8h-8zm12 0h8v8h-8zm12 0h6v8h-6zM46 58h8v8h-8zm16 0h8v8h-8zm24 0h8v8h-8zm16 0h10v8h-10zM46 70h16v8H46zm20 0h8v8h-8zm12 0h16v8H78zm20 0h14v8H98zM50 82h8v8h-8zm12 0h16v8H62zm20 0h8v8h-8zm12 0h18v8H94zM46 94h8v18h-8zm12 0h8v8h-8zm12 0h8v18h-8zm12 0h16v8H82zm20 0h10v18h-10zM58 106h8v6h-8zm24 0h16v6H82z"/>
+  </g>
+  <rect x="48" y="48" width="24" height="24" rx="6" fill="#e8f6ff"/>
+  <path d="M53 65V54h3l4 6 4-6h3v11h-3v-6l-4 5-4-5v6z" fill="#0b7dce"/>
+</svg>
