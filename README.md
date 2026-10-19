@@ -23,3 +23,7 @@ python3 -m http.server 8080
 然后访问 `http://localhost:8080`。
 
 > 客服二维码与电话号码目前是演示占位内容，接入正式环境前请替换。
+
+## PLC 数据导入原型
+
+已确认版本（2026-10-19）：[PLC导入页面](plc-import/index.html) · [使用与接入说明](plc-import/README.md)。
